@@ -6,6 +6,7 @@ public class Calculator {
 		int result = a+b;
 		System.out.println("Add :=" + result);
 		System.out.println("Second commit......");
+		System.out.println("commit......");
 	}
 
 	public static void main(String[] args) {
